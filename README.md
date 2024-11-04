@@ -10,7 +10,7 @@ Banco de Dados: MySQL 8.0.31.
 
 Back-end: Laravel 11.
 
-Front-end: Angular 18.
+Front-end: Angular 18, Node.js 18 ou superior (para o Angular).
 
 2. Instalação e Configuração
    
