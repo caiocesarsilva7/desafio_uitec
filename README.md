@@ -14,7 +14,7 @@ Clone o repositório do desafio disponível no meu GitHub.
 Abra o Laragon e clique em Root para acessar a pasta principal.
 Copie as pastas backend e frontend do repositório clonado e cole-as na pasta root do Laragon.
 
-4. Executando a Aplicação
+3. Executando a Aplicação
 Abra o Laragon e, no terminal, execute os comandos para iniciar o back-end:
 
 cd backend
